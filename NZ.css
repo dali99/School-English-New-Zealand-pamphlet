@@ -7,3 +7,11 @@ body {
 	height: 21cm;
 	background-color: white;
 }
+
+.red {
+	color: red;
+}
+
+.general_info {
+	width: 7.3cm;
+}
