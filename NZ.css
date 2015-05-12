@@ -22,3 +22,10 @@ div.general_info {
 	padding-right: 0.05cm
 }
 
+* {
+	margin: 1px;
+}
+
+p {
+	margin-bottom: 15px;
+}
