@@ -20,7 +20,8 @@ body {
 div.general_info {
 	height: 100%;
 	display: inline-block;
-	padding-right: 0.05cm
+	padding-right: 0.05cm;
+	padding-left: 25px;
 }
 
 * {
