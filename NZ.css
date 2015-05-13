@@ -36,3 +36,7 @@ p {
 .small {
 	font-size: 7px
 }
+
+li p {
+	margin-bottom: 3px;
+}
